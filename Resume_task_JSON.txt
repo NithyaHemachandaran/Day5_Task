@@ -1,0 +1,110 @@
+{
+  "basics": {
+    "name": "NithyaHemachandaran",
+    "label": "",
+    "picture": "",
+    "email": "nithya8989@gmail.com",
+    "phone": "+91 7867987102",
+    "degree": "BE",
+    "website": "",
+    "summary": "",
+    "location": {
+      "address": "Erode",
+      "postalCode": "638011)",
+      "city": "Erode",
+      "countryCode": "India,
+      "region": "Tamilnadu"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "NithyaHemachandaran",
+        "url": "https://www.linkedin.com/in/nithya-chandaran-777495232/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Royalsoft services Ltd",
+      "position": "Software Engineer",
+      "website": "http://www.royalsoftservices.com",
+      "startDate": "2010-06-08",
+      "endDate": "2012-05-04",
+      "summary": "Software Engineer-Design,Coding,Implementation",
+      "highlights": [
+       "•	Played a strong team player role.
+        •	Involved in Design and coding.
+	•	Involved in implementation , modified coding ,Report generation and bug fixing.
+	•	Design web pages using servlet, jsp, html and JavaScript.
+	•	Involved in developing JSP pages.
+	•	Generated report using itext.
+	•	Performed Log test in application
+"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "",
+      "position": "",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        ""
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Anna University, Chennai.",
+      "area": "Bachelor of Engineering in Computer Science Engineering",
+      "studyType": "Regular",
+      "startDate": "2006-08-31",
+      "endDate": "2010-05-10",
+      "gpa": "84.2%",
+      "courses": ["maths","computerscience"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Department Topper",
+      "date": "2011-05-10",
+      "awarder": "Institusion",
+      "summary": "Overall CSE depat topper at final year"
+    }
+  ],
+  "publications": [
+    {
+      "name": "",
+      "publisher": "",
+      "releaseDate": "",
+      "website": "",
+      "summary": ""      
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages"
+      "level": "",
+      "keywords": [
+        "('Java','J2EE','servelt','jsp','php','html','css','javaScript','MySql')"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Tamil,English,Malayalam",
+      "fluency": "Tamil,English"
+    }
+  ],
+  "interests": [
+    {
+      "name": "'Sports','Music'",
+      "keywords": [
+        "'Cricket', 'Football'"
+      ]
+    }
+  ]
+}
